@@ -1,2 +1,2 @@
 # Project1
-By Aditya Ranjan
+By Aditya Ranjan (Minku Singh)
